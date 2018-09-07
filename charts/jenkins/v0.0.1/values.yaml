@@ -1,7 +1,7 @@
 
 image:
   repository: <TODO: Put your own docker image here>
-  tag: 2.141
+  tag: 2.140
   pullPolicy: IfNotPresent
 
 service:

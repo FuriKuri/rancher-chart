@@ -2,7 +2,7 @@ name: jenkins
 home: https://jenkins.io/
 icon: https://jenkins.io/images/logos/jenkins/jenkins.png
 version: 0.0.1
-appVersion: 2.141
+appVersion: 2.140
 description: The leading open source automation server, Jenkins provides hundreds of plugins to support building, deploying and automating any project.
 keywords:
 - continuous-delivery
