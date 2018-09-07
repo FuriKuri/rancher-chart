@@ -1,0 +1,24 @@
+
+image:
+  repository: <TODO: Put your own docker image here>
+  tag: 2.141
+  pullPolicy: IfNotPresent
+
+service:
+  httpPort: 80
+  type: LoadBalancer
+
+ingress:
+  enabled: false
+
+persistence:
+  enabled: true
+  accessMode: ReadWriteOnce
+  size: 8Gi
+
+resources:
+  requests:
+    memory: 512Mi
+    cpu: 300m
+
+helloWorld: <TODO: Put your own text here>
