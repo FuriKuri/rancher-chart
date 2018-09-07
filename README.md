@@ -10,7 +10,7 @@
 ### Prepare chart
 * Fork repostiory `https://github.com/FuriKuri/rancher-chart`
 * Replace the todos `grep -r "TODO:" .` 
-* Add missing rancher files `app-readme.md` and `values.yaml` [Rancher Doc](https://rancher.com/docs/rancher/v2.x/en/catalog/custom/)
+* Add missing rancher files `app-readme.md` and `questions.yml` [Rancher Doc](https://rancher.com/docs/rancher/v2.x/en/catalog/custom/)
   * Add question for using a default image or a specific image and tag
   * Add question for the 'Hello World' text
   * Add question for persistence
