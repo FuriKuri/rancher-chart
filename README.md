@@ -11,11 +11,11 @@
 * Fork repostiory `https://github.com/FuriKuri/rancher-chart`
 * Replace the todos `grep -r "TODO:" .` 
 * Add missing rancher files `app-readme.md` and `values.yaml` [Rancher Doc](https://rancher.com/docs/rancher/v2.x/en/catalog/custom/)
-** Add question for using a default image or a specific image and tag
-** Add question for the 'Hello World' text
-** Add question for persistence
-** Add question to which service type
-*** Do not show service type question if ingress is enabled
+ * Add question for using a default image or a specific image and tag
+ * Add question for the 'Hello World' text
+ * Add question for persistence
+ * Add question to which service type
+  * Do not show service type question if ingress is enabled
 
 ### Start jenkins
 * Add custom catalog as in rancher
