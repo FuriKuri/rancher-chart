@@ -1,6 +1,6 @@
 
 image:
-  repository: <TODO: Put your own docker image here>
+  repository: furikuri/jenkins-lab
   tag: 2.140
   pullPolicy: IfNotPresent
 
@@ -21,4 +21,4 @@ resources:
     memory: 512Mi
     cpu: 300m
 
-helloWorld: <TODO: Put your own text here>
+helloWorld: hello

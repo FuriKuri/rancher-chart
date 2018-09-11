@@ -11,7 +11,7 @@ keywords:
 - docker
 - jenkins
 sources:
-- <TODO: Put your link to the git repo here>
+- https://github.com/FuriKuri/rancher-chart
 maintainers:
-- name: <TODO: Put your name here>
-  email: <TODO: Put your email here>
+- name: Theo
+  email: mail@mail.com
